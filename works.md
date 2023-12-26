@@ -74,9 +74,5 @@ During my internship at National Taiwan University of Science and Technology (NT
 <br>
 <center><img src="images/mechanical.jpg"/></center>
 <br>
----
 
 <center>© 2022 Nhat Luong.</center>
-
-
-
