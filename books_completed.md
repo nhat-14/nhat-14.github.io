@@ -4,5 +4,9 @@ layout: default
 parent: Books
 ---
 
-1. The Alchemist
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+# Novels
+1. The Alchemist by Paulo Coelho.
+2. Rich Dad Poor Dad by Robert T. Kiyosaki.
+
+# Textbooks
+1. Valuation: Measuring and Managing the Value of Companies by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels.
