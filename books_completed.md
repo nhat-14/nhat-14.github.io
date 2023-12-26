@@ -5,7 +5,7 @@ parent: Books
 ---
 
 # Novels
-1. The Alchemist by Paulo Coelho. [Amazon](www.amazon.co.jp/dp/0007155662)
+1. The Alchemist by Paulo Coelho. [Amazon](https://www.amazon.co.jp/dp/0007155662)
 2. Rich Dad Poor Dad by Robert T. Kiyosaki. [Amazon](https://www.amazon.co.jp/-/en/Robert-T-Kiyosaki/dp/1612680194)
 
 # Textbooks
