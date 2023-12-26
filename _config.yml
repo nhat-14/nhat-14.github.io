@@ -8,7 +8,7 @@ plugins:
   - jekyll-default-layout
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/assets/images/myface.ico"
+favicon_ico: "_site/assets/images/myface.ico"
 
 
 # Enable or disable the site search
