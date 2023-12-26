@@ -10,6 +10,8 @@ plugins:
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "_site/assets/images/myface.ico"
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/cat.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
