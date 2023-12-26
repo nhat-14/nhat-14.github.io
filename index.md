@@ -37,5 +37,5 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 ---
 title: Books
-layout: home
+layout: default
 ---
