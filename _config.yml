@@ -6,3 +6,6 @@ url: ducnhat-luong.github.io
 
 plugins:
   - jekyll-default-layout
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/myface.ico"
