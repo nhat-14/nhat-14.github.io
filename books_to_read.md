@@ -1,5 +1,5 @@
 ---
-title: Wish list books
+title: Waiting list
 layout: default
 parent: Books
 ---
