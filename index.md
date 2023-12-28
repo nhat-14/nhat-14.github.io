@@ -26,4 +26,4 @@ for the tasks of path and motion planning.
 
 
 See my works and research related activities in [Works](https://ducnhat-luong.github.io/works.html).
-See my reading list in [Books](https://ducnhat-luong.github.io/books.html).
+See my reading list in [Reading](https://ducnhat-luong.github.io/books.html).

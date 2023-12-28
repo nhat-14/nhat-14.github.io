@@ -1,5 +1,5 @@
 ---
-title: Complete reading books
+title: Completed
 layout: default
 parent: Reading
 ---
