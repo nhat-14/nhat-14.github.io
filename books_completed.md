@@ -1,7 +1,7 @@
 ---
 title: Complete reading books
 layout: default
-parent: Books
+parent: Reading
 ---
 
 # Novels

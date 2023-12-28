@@ -1,7 +1,7 @@
 ---
 title: Reading list
 layout: default
-parent: Books
+parent: Reading
 ---
 
 # Novels

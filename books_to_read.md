@@ -1,7 +1,7 @@
 ---
 title: Waiting list
 layout: default
-parent: Books
+parent: Reading
 ---
 
 # Novels
