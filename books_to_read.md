@@ -13,3 +13,4 @@ parent: Reading
 # Technology
 1. Code Complete by Steve McConnell. [Amazon](https://www.amazon.co.jp/-/en/Steve-McConnell/dp/0735619670)
 2. The Pragmatic Programmer by David Thomas, Andrew Hunt. [Oreilly](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
+3. Blockchain Basics by Daniel Drescher. [Amazon](https://www.amazon.co.jp/-/en/Daniel-Drescher/dp/1484226038)
