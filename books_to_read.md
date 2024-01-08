@@ -25,3 +25,5 @@ parent: Reading
 
 # Others
 1. Atomic Habits by James Clear. [Amazon](https://www.amazon.co.jp/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+2. The Art of Strategy by Avinash K. Dixit, Barry J. Nalebuff. [Amazon](https://www.amazon.co.jp/Art-Strategy-Theorists-Success-Business/dp/0393337170)
+3. Why Nations Fail by Daron Acemoglu, James A. Robinson. [Amazon](https://www.amazon.co.jp/-/en/Daron-Acemoglu/dp/0307719227)
