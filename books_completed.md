@@ -12,6 +12,9 @@ parent: Reading
 1. One Up On Wall Street by Peter Lynch. [Amazon](https://www.amazon.co.jp/-/en/Peter-Lynch/dp/0743200403)
 2. Rich Dad Poor Dad by Robert T. Kiyosaki. [Amazon](https://www.amazon.co.jp/-/en/Robert-T-Kiyosaki/dp/1612680194)
 3. Valuation by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels. [Amazon](www.amazon.co.jp/dp/1119610885)
+4. Learn to Earn by Peter Lynch. [Amazon](https://www.amazon.co.jp/-/en/Peter-Lynch/dp/0684811634) 
+
+
 
 # Technology
 1. Starting Out with C++ by Tony Gaddis. [Pearson](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-c-from-control-structures-to-objects/P200000003320/9780137450626)
@@ -24,10 +27,6 @@ parent: Reading
 8. Probability and Stochastic Processes by Roy D. Yates, David J. Goodman. [Amazon](https://www.amazon.com/Probability-Stochastic-Processes-Introduction-Electrical/dp/1118324560)
 9. ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim. [ROS](https://wiki.ros.org/Books/ROS_Robot_Programming_English)
 10. Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph. [Amazon](https://www.amazon.co.jp/-/en/Lentin-Joseph-ebook/dp/B07D9CGKQ7)
-
-
-
-
 
 # Others
 1. How to Apply for the MEXT Scholarship by Travis Senzaki. [Amazon](https://www.amazon.co.jp/-/en/Travis-Senzaki/dp/4909776001)

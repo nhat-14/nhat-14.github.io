@@ -22,3 +22,6 @@ parent: Reading
 2. The Pragmatic Programmer by David Thomas, Andrew Hunt. [Oreilly](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
 3. Blockchain Basics by Daniel Drescher. [Amazon](https://www.amazon.co.jp/-/en/Daniel-Drescher/dp/1484226038)
 4. Financial Theory with Python by Yves Hilpisch. [O'Reilly](https://www.oreilly.com/library/view/financial-theory-with/9781098104344/)
+
+# Others
+1. Atomic Habits by James Clear. [Amazon](https://www.amazon.co.jp/Atomic-Habits-Proven-Build-Break/dp/0735211299)
