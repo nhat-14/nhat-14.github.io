@@ -15,7 +15,10 @@ parent: Reading
 6. Grow the Pie by Alex Edmans. [Amazon](www.amazon.co.jp/dp/1009054678)
 7. The Devil's Financial Dictionary by Jason Zweig. [Amazon](https://www.amazon.co.jp/Devils-Financial-Dictionary-Jason-Zweig/dp/1610397762)
 8. The Essays of Warren Buffett by Warren E. Buffett, Lawrence A. Cunningham. [Amazon](https://www.amazon.co.jp/Essays-Warren-Buffett/dp/0966446143)
-
+9. MONEY Master the Game by Tony Robbins. [Amazon](https://www.amazon.co.jp/MONEY-Master-Game-Financial-Freedom/dp/1476757860)
+10. The Clash of the Cultures by John C. Bogle, Arthur Levitt Jr. [Amazon](https://www.amazon.co.jp/Clash-Cultures-Investment-vs-Speculation/dp/1118122771)
+11. Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel. [Amazon](https://www.amazon.co.jp/-/en/David-Spiceland/dp/126438744X)
+12. Currency Wars by James Rickards. [Amazon](https://www.amazon.co.jp/Currency-Wars-Making-Global-Crisis/dp/1591845564)
 
 # Technology
 1. Code Complete by Steve McConnell. [Amazon](https://www.amazon.co.jp/-/en/Steve-McConnell/dp/0735619670)
@@ -27,3 +30,7 @@ parent: Reading
 1. Atomic Habits by James Clear. [Amazon](https://www.amazon.co.jp/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 2. The Art of Strategy by Avinash K. Dixit, Barry J. Nalebuff. [Amazon](https://www.amazon.co.jp/Art-Strategy-Theorists-Success-Business/dp/0393337170)
 3. Why Nations Fail by Daron Acemoglu, James A. Robinson. [Amazon](https://www.amazon.co.jp/-/en/Daron-Acemoglu/dp/0307719227)
+4. The Peter Principle by Dr. Laurence J Peter, Raymond Hull. [Amazon](https://www.amazon.co.jp/Peter-Principle-Things-Always-Wrong/dp/0062092065) 
+5. River Out of Eden by Richard Dawkins. [Amazon](https://www.amazon.co.jp/River-Out-Eden-Darwinian-Science/dp/0465069908) 
+6. The Lessons of History by Will Durant. [Amazon](https://www.amazon.co.jp/Lessons-History-Will-Durant/dp/143914995X) 
+7. The Hero with a Thousand Faces by Joseph Campbell. [Amazon](https://www.amazon.co.jp/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936) 

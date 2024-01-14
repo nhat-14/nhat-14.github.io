@@ -14,8 +14,6 @@ parent: Reading
 3. Valuation by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels. [Amazon](www.amazon.co.jp/dp/1119610885)
 4. Learn to Earn by Peter Lynch. [Amazon](https://www.amazon.co.jp/-/en/Peter-Lynch/dp/0684811634) 
 
-
-
 # Technology
 1. Starting Out with C++ by Tony Gaddis. [Pearson](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-c-from-control-structures-to-objects/P200000003320/9780137450626)
 2. Starting Out with Python by Tony Gaddis. [Pearson](https://www.pearson.com/en-us/subject-catalog/p/starting-out-with-python/P200000003356/9780136912330)

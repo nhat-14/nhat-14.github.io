@@ -7,9 +7,8 @@ parent: Reading
 # Novels
 
 # Economy and Finance
-1. Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel. [Amazon](https://www.amazon.co.jp/-/en/David-Spiceland/dp/126438744X)
-2. The Little Book of Valuation by Aswath Damodaran. [Amazon](www.amazon.com/dp/1118004779)
-3. 誰も教えてくれないお金と経済のしくみ by 森永康平. [Amazon](www.amazon.co.jp/dp/4866672846)
+1. The Little Book of Valuation by Aswath Damodaran. [Amazon](www.amazon.com/dp/1118004779)
+2. 誰も教えてくれないお金と経済のしくみ by 森永康平. [Amazon](www.amazon.co.jp/dp/4866672846)
 
 # Technology
 1. Pro Git 日本語版電子書籍 by Scott Chacon, Ben Straub. Translated by 高木正弘 [Url](https://progit-ja.github.io/)
