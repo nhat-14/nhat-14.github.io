@@ -16,7 +16,7 @@ layout: home
 </p>
 
 <p align="justify">
-I am pursing PhD degree in Systems and Control Engineering at Engineering School, Tokyo Institute of Technology, Japan.
+My full name is Luong Duc Nhat (ニャット). I am pursing PhD degree in Systems and Control Engineering at Engineering School, Tokyo Institute of Technology, Japan.
 <br><br>
 I am conducting research in chemical plume tracing robot where I use Reinforcement Learning and related AI technologies 
 for the tasks of path and motion planning.
