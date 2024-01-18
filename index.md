@@ -11,7 +11,7 @@ layout: home
 <p align="center">
 <a href="pdf/Resume_Nhat.pdf">Resume</a> |
 <a href="https://www.linkedin.com/in/nhat-luong-02058617b/">LinkedIn</a> |
-<a href="https://github.com/ducnhat-luong">GitHub</a> |
+<a href="https://github.com/nhat-14">GitHub</a> |
 <a href="https://scholar.google.com/citations?user=Jj6xszMAAAAJ&hl=vi">GoogleScholar</a>
 </p>
 
