@@ -1,10 +1,10 @@
-title: Duc-Nhat's Site
+title: Luong Duc Nhat's Site
 description: See my works and daily blogs here!
 
 
 theme: just-the-docs
 
-url: ducnhat-luong.github.io
+url: nhat-14.github.io
 
 plugins:
   - jekyll-default-layout
