@@ -7,30 +7,30 @@ parent: Reading
 # Novels
 
 # Economy and Finance
-1. The Intelligent Investor by Benjamin Graham, Jason Zweig. [Amazon](www.amazon.co.jp/dp/0060555661)
-2. The Accounting Game by Darrell Mullis, Judith Orloff. [Amazon](https://www.amazon.com/Accounting-Game-Basic-Fresh-Lemonade/dp/1402211864)
-3. How a Second Grader Beats Wall Street by Allan S. Roth. [Amazon](www.amazon.co.jp/dp/0470919035)
-4. All About Asset Allocation by Richard A. Ferri. [Amazon](https://www.amazon.co.jp/All-About-Asset-Allocation-Second/dp/0071700781)
-5. The Millionaire Next Door by Thomas J. Stanley, William D. Danko. [Amazon](https://www.amazon.co.jp/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
-6. Grow the Pie by Alex Edmans. [Amazon](www.amazon.co.jp/dp/1009054678)
-7. The Devil's Financial Dictionary by Jason Zweig. [Amazon](https://www.amazon.co.jp/Devils-Financial-Dictionary-Jason-Zweig/dp/1610397762)
-8. The Essays of Warren Buffett by Warren E. Buffett, Lawrence A. Cunningham. [Amazon](https://www.amazon.co.jp/Essays-Warren-Buffett/dp/0966446143)
-9. MONEY Master the Game by Tony Robbins. [Amazon](https://www.amazon.co.jp/MONEY-Master-Game-Financial-Freedom/dp/1476757860)
-10. The Clash of the Cultures by John C. Bogle, Arthur Levitt Jr. [Amazon](https://www.amazon.co.jp/Clash-Cultures-Investment-vs-Speculation/dp/1118122771)
-11. Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel. [Amazon](https://www.amazon.co.jp/-/en/David-Spiceland/dp/126438744X)
-12. Currency Wars by James Rickards. [Amazon](https://www.amazon.co.jp/Currency-Wars-Making-Global-Crisis/dp/1591845564)
+1. The Intelligent Investor by Benjamin Graham, Jason Zweig.
+2. The Accounting Game by Darrell Mullis, Judith Orloff.
+3. How a Second Grader Beats Wall Street by Allan S. Roth.
+4. All About Asset Allocation by Richard A. Ferri.
+5. The Millionaire Next Door by Thomas J. Stanley, William D. Danko.
+6. Grow the Pie by Alex Edmans.
+7. The Devil's Financial Dictionary by Jason Zweig.
+8. The Essays of Warren Buffett by Warren E. Buffett, Lawrence A. Cunningham.
+9. MONEY Master the Game by Tony Robbins.
+10. The Clash of the Cultures by John C. Bogle, Arthur Levitt Jr.
+11. Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel.
+12. Currency Wars by James Rickards.
 
 # Technology
-1. Code Complete by Steve McConnell. [Amazon](https://www.amazon.co.jp/-/en/Steve-McConnell/dp/0735619670)
-2. The Pragmatic Programmer by David Thomas, Andrew Hunt. [Oreilly](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
-3. Blockchain Basics by Daniel Drescher. [Amazon](https://www.amazon.co.jp/-/en/Daniel-Drescher/dp/1484226038)
-4. Financial Theory with Python by Yves Hilpisch. [O'Reilly](https://www.oreilly.com/library/view/financial-theory-with/9781098104344/)
+1. Code Complete by Steve McConnell.
+2. The Pragmatic Programmer by David Thomas, Andrew Hunt.
+3. Blockchain Basics by Daniel Drescher.
+4. Financial Theory with Python by Yves Hilpisch.
 
 # Others
-1. Atomic Habits by James Clear. [Amazon](https://www.amazon.co.jp/Atomic-Habits-Proven-Build-Break/dp/0735211299)
-2. The Art of Strategy by Avinash K. Dixit, Barry J. Nalebuff. [Amazon](https://www.amazon.co.jp/Art-Strategy-Theorists-Success-Business/dp/0393337170)
-3. Why Nations Fail by Daron Acemoglu, James A. Robinson. [Amazon](https://www.amazon.co.jp/-/en/Daron-Acemoglu/dp/0307719227)
-4. The Peter Principle by Dr. Laurence J Peter, Raymond Hull. [Amazon](https://www.amazon.co.jp/Peter-Principle-Things-Always-Wrong/dp/0062092065) 
-5. River Out of Eden by Richard Dawkins. [Amazon](https://www.amazon.co.jp/River-Out-Eden-Darwinian-Science/dp/0465069908) 
-6. The Lessons of History by Will Durant. [Amazon](https://www.amazon.co.jp/Lessons-History-Will-Durant/dp/143914995X) 
-7. The Hero with a Thousand Faces by Joseph Campbell. [Amazon](https://www.amazon.co.jp/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936) 
+1. Atomic Habits by James Clear.
+2. The Art of Strategy by Avinash K. Dixit, Barry J. Nalebuff.
+3. Why Nations Fail by Daron Acemoglu, James A. Robinson.
+4. The Peter Principle by Dr. Laurence J Peter, Raymond Hull. 
+5. River Out of Eden by Richard Dawkins.
+6. The Lessons of History by Will Durant. 
+7. The Hero with a Thousand Faces by Joseph Campbell.
