@@ -15,7 +15,7 @@ parent: Reading
 3. Valuation by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels.
 4. Learn to Earn by Peter Lynch.
 
-# Technology
+# Science and Technology
 1. Starting Out with C++ by Tony Gaddis.
 2. Starting Out with Python by Tony Gaddis.
 3. Control Systems Engineering by Norman S. Nise.
