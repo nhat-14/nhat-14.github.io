@@ -22,10 +22,10 @@ parent: Reading
 4. Learn SQL in One Day and Learn It Well by Jamie Chan.
 5. Getting Started With Raspberry Pi by Matt Richardson, Shawn Wallace.
 6. Gaussian Processes for Machine Learning by Carl Edward Rasmussen, Christopher K. I. Williams.
-7. Planning Algorithms by Steven M. LaValle. [Amazon](https://www.amazon.com/Planning-Algorithms-Steven-M-LaValle/dp/0521862051)
-8. Probability and Stochastic Processes by Roy D. Yates, David J. Goodman. [Amazon](https://www.amazon.com/Probability-Stochastic-Processes-Introduction-Electrical/dp/1118324560)
-9. ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim. [ROS](https://wiki.ros.org/Books/ROS_Robot_Programming_English)
-10. Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph. [Amazon](https://www.amazon.co.jp/-/en/Lentin-Joseph-ebook/dp/B07D9CGKQ7)
+7. Planning Algorithms by Steven M. LaValle.
+8. Probability and Stochastic Processes by Roy D. Yates, David J. Goodman.
+9. ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim.
+10. Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph.
 
 # Others
-1. How to Apply for the MEXT Scholarship by Travis Senzaki. [Amazon](https://www.amazon.co.jp/-/en/Travis-Senzaki/dp/4909776001)
+1. How to Apply for the MEXT Scholarship by Travis Senzaki.
