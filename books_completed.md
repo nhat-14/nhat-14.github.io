@@ -27,5 +27,13 @@ parent: Reading
 9. ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim.
 10. Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph.
 
+# Language
+1. みんなの日本語初級Ⅰ 第２版 by スリーエーネットワーク.
+2. みんなの日本語初級Ⅱ 第２版 by スリーエーネットワーク.
+3. まるごと 日本のことばと文化 中級1 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
+4. まるごと 日本のことばと文化 中級2 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
+5. 日本語学習者のための 読解厳選テーマ10 \[中級\] by 清水正幸, 林真弓.
+6. 中級を学ぼう 日本語の文型と表現56 中級前期 第2版 by 平井悦子, 三輪さち子.
+
 # Others
 1. How to Apply for the MEXT Scholarship by Travis Senzaki.
