@@ -7,7 +7,15 @@ parent: Reading
 # Novels
 1. The Alchemist by Paulo Coelho.
 2. Lịch Sử Việt Nam Bằng Tranh by Trần Bạch Đằng.
-3. Romance of the Three Kingdoms (Tam Quốc Diễn Nghĩa) by Luo Guanzhong (La Quán Trung).
+3. Romance of the Three Kingdoms by Luo Guanzhong.
+4. Harry Potter and the Philosopher's Stone by J. K. Rowling.
+6. Harry Potter and the Prisoner of Azkaban by J. K. Rowling.
+7. Harry Potter and the Goblet of Fire by J. K. Rowling.
+8. Harry Potter and the Order of the Phoenix by J. K. Rowling.
+9. Harry Potter and the Half-Blood Prince by J. K. Rowling.
+10. Harry Potter and the Deathly Hallows by J. K. Rowling.
+11. Chuyện xứ Lang Biang by Nguyễn Nhật Ánh.
+12. Tôi là Bêtô by Nguyễn Nhật Ánh.
 
 # Economy and Finance
 1. One Up On Wall Street by Peter Lynch.
