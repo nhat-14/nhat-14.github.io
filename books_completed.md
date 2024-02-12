@@ -24,8 +24,8 @@ parent: Reading
 4. Learn to Earn by Peter Lynch.
 
 # Science and Technology
-1. Starting Out with C++ by Tony Gaddis.
-2. Starting Out with Python by Tony Gaddis.
+- Starting Out with C++ by Tony Gaddis.
+- Starting Out with Python by Tony Gaddis.
 3. Control Systems Engineering by Norman S. Nise.
 4. Learn SQL in One Day and Learn It Well by Jamie Chan.
 5. Getting Started With Raspberry Pi by Matt Richardson, Shawn Wallace.
@@ -34,6 +34,8 @@ parent: Reading
 8. Probability and Stochastic Processes by Roy D. Yates, David J. Goodman.
 9. ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim.
 10. Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph.
+11. The Busy Coder's Guide to Android Development by Mark L. Murphy.
+12. MQTT Essentials - A Lightweight IoT Protocol by Gaston C. Hillar.
 
 # Language
 1. みんなの日本語初級Ⅰ 第２版 by スリーエーネットワーク.
