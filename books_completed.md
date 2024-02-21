@@ -24,6 +24,11 @@ parent: Reading
 4. Learn to Earn by Peter Lynch.
 
 # Science and Technology
+- Probabilistic Robotics by Sebastian Thrun, Wolfram Burgard, Dieter Fox.
+- Fundamentals of Electric Circuits by Charles Alexander, Matthew Sadiku.
+- Engineering Mechanics: Dynamics by Russell C. Hibbeler.
+- Engineering Mechanics: Statics by Russell C. Hibbeler.
+- University Physics with Modern Physics by Hugh D. Young, Roger A. Freedman
 - Starting Out with C++ by Tony Gaddis.
 - Starting Out with Python by Tony Gaddis.
 - Control Systems Engineering by Norman S. Nise.
