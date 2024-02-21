@@ -27,10 +27,10 @@ parent: Reading
 4. Financial Theory with Python by Yves Hilpisch.
 
 # Others
-1. Atomic Habits by James Clear.
-2. The Art of Strategy by Avinash K. Dixit, Barry J. Nalebuff.
-3. Why Nations Fail by Daron Acemoglu, James A. Robinson.
-4. The Peter Principle by Dr. Laurence J Peter, Raymond Hull. 
-5. River Out of Eden by Richard Dawkins.
-6. The Lessons of History by Will Durant. 
-7. The Hero with a Thousand Faces by Joseph Campbell.
+- Atomic Habits by James Clear.
+- The Art of Strategy by Avinash K. Dixit, Barry J. Nalebuff.
+- Why Nations Fail by Daron Acemoglu, James A. Robinson.
+- The Peter Principle by Dr. Laurence J Peter, Raymond Hull. 
+- River Out of Eden by Richard Dawkins.
+- The Lessons of History by Will Durant. 
+- The Hero with a Thousand Faces by Joseph Campbell.

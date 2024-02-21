@@ -26,24 +26,24 @@ parent: Reading
 # Science and Technology
 - Starting Out with C++ by Tony Gaddis.
 - Starting Out with Python by Tony Gaddis.
-3. Control Systems Engineering by Norman S. Nise.
-4. Learn SQL in One Day and Learn It Well by Jamie Chan.
-5. Getting Started With Raspberry Pi by Matt Richardson, Shawn Wallace.
-6. Gaussian Processes for Machine Learning by Carl Edward Rasmussen, Christopher K. I. Williams.
-7. Planning Algorithms by Steven M. LaValle.
-8. Probability and Stochastic Processes by Roy D. Yates, David J. Goodman.
-9. ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim.
-10. Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph.
-11. The Busy Coder's Guide to Android Development by Mark L. Murphy.
-12. MQTT Essentials - A Lightweight IoT Protocol by Gaston C. Hillar.
+- Control Systems Engineering by Norman S. Nise.
+- Learn SQL in One Day and Learn It Well by Jamie Chan.
+- Getting Started With Raspberry Pi by Matt Richardson, Shawn Wallace.
+- Gaussian Processes for Machine Learning by Carl Edward Rasmussen, Christopher K. I. Williams.
+- Planning Algorithms by Steven M. LaValle.
+- Probability and Stochastic Processes by Roy D. Yates, David J. Goodman.
+- ROS Robot Programming by Yoonseok Pyo, Hancheol Cho, Leon Jung, Darby Lim.
+- Robot Operating System (ROS) for Absolute Beginners by Lentin Joseph.
+- The Busy Coder's Guide to Android Development by Mark L. Murphy.
+- MQTT Essentials - A Lightweight IoT Protocol by Gaston C. Hillar.
 
 # Language
-1. みんなの日本語初級Ⅰ 第２版 by スリーエーネットワーク.
-2. みんなの日本語初級Ⅱ 第２版 by スリーエーネットワーク.
-3. まるごと 日本のことばと文化 中級1 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
-4. まるごと 日本のことばと文化 中級2 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
-5. 日本語学習者のための 読解厳選テーマ10 \[中級\] by 清水正幸, 林真弓.
-6. 中級を学ぼう 日本語の文型と表現56 中級前期 第2版 by 平井悦子, 三輪さち子.
+- みんなの日本語初級Ⅰ 第２版 by スリーエーネットワーク.
+- みんなの日本語初級Ⅱ 第２版 by スリーエーネットワーク.
+- まるごと 日本のことばと文化 中級1 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
+- まるごと 日本のことばと文化 中級2 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
+- 日本語学習者のための 読解厳選テーマ10 \[中級\] by 清水正幸, 林真弓.
+- 中級を学ぼう 日本語の文型と表現56 中級前期 第2版 by 平井悦子, 三輪さち子.
 
 # Others
-1. How to Apply for the MEXT Scholarship by Travis Senzaki.
+- How to Apply for the MEXT Scholarship by Travis Senzaki.
