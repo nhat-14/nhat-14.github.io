@@ -18,10 +18,11 @@ parent: Reading
 12. Tôi là Bêtô by Nguyễn Nhật Ánh.
 
 # Economy and Finance
-1. One Up On Wall Street by Peter Lynch.
-2. Rich Dad Poor Dad by Robert T. Kiyosaki.
-3. Valuation by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels.
-4. Learn to Earn by Peter Lynch.
+- Learn to Earn by Peter Lynch.
+- One Up On Wall Street by Peter Lynch.
+- Rich Dad Poor Dad by Robert T. Kiyosaki.
+- The Little Book of Common Sense Investing by John C. Bogle.
+- Valuation by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels.
 
 # Science and Technology
 - Probabilistic Robotics by Sebastian Thrun, Wolfram Burgard, Dieter Fox.
