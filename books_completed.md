@@ -5,17 +5,17 @@ parent: Reading
 ---
 
 # Novels
-1. The Alchemist by Paulo Coelho.
-2. Lịch Sử Việt Nam Bằng Tranh by Trần Bạch Đằng.
-3. Romance of the Three Kingdoms by Luo Guanzhong.
-4. Harry Potter and the Philosopher's Stone by J. K. Rowling.
-6. Harry Potter and the Prisoner of Azkaban by J. K. Rowling.
-7. Harry Potter and the Goblet of Fire by J. K. Rowling.
-8. Harry Potter and the Order of the Phoenix by J. K. Rowling.
-9. Harry Potter and the Half-Blood Prince by J. K. Rowling.
-10. Harry Potter and the Deathly Hallows by J. K. Rowling.
-11. Chuyện xứ Lang Biang by Nguyễn Nhật Ánh.
-12. Tôi là Bêtô by Nguyễn Nhật Ánh.
+- Chuyện xứ Lang Biang by Nguyễn Nhật Ánh.
+- Harry Potter and the Philosopher's Stone by J. K. Rowling.
+- Harry Potter and the Prisoner of Azkaban by J. K. Rowling.
+- Harry Potter and the Goblet of Fire by J. K. Rowling.
+- Harry Potter and the Order of the Phoenix by J. K. Rowling.
+- Harry Potter and the Half-Blood Prince by J. K. Rowling.
+- Harry Potter and the Deathly Hallows by J. K. Rowling.
+- Lịch Sử Việt Nam Bằng Tranh by Trần Bạch Đằng.
+- The Alchemist by Paulo Coelho.
+- Tôi là Bêtô by Nguyễn Nhật Ánh.
+- Romance of the Three Kingdoms by Luo Guanzhong.
 
 # Economy and Finance
 - Learn to Earn by Peter Lynch.
@@ -23,6 +23,7 @@ parent: Reading
 - Rich Dad Poor Dad by Robert T. Kiyosaki.
 - The Little Book of Common Sense Investing by John C. Bogle.
 - Valuation by McKinsey & Company Inc., Tim Koller, Marc Goedhart, David Wessels.
+- Warren Buffett and the Interpretation of Financial Statements by Mary Buffett, David Clark.
 
 # Science and Technology
 - Probabilistic Robotics by Sebastian Thrun, Wolfram Burgard, Dieter Fox.
