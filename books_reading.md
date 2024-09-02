@@ -13,6 +13,7 @@ parent: Reading
 - Investment Valuation by Aswath Damodaran.
 - 超ど素人がはじめる不動産投資 by 弦本 卓也.
 - 不動産投資 by 鈴木 宏史.
+- みんなが欲しかった！　簿記の教科書　日商3級　商業簿記　第11版 by 滝澤　ななみ
 
 
 # Technology
