@@ -4,8 +4,6 @@ layout: default
 parent: Reading
 ---
 
-# Novels
-
 # Economy and Finance
 - マンキュー経済学 1: ミクロ編 (Principles of Microeconomics) by N. Gregory Mankiw.　Translated by 足立, 英之／石川, 城太
 - The Little Book of Valuation by Aswath Damodaran.
@@ -15,7 +13,6 @@ parent: Reading
 - 不動産投資 by 鈴木 宏史.
 - みんなが欲しかった！　簿記の教科書　日商3級　商業簿記　第11版 by 滝澤　ななみ
 
-
 # Technology
 - Pro Git 日本語版電子書籍 by Scott Chacon, Ben Straub. Translated by 高木 正弘.
 - いちばんやさしい 基本情報技術者 by 高橋京介.
@@ -24,3 +21,5 @@ parent: Reading
 # Language
 - Remembering the Kanji 1 by James W. Heisig.
 - Remembering the Kanji 2 by James W. Heisig.
+
+# Novels

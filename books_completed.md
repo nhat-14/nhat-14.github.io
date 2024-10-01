@@ -4,19 +4,6 @@ layout: default
 parent: Reading
 ---
 
-# Novels
-- Chuyện xứ Lang Biang by Nguyễn Nhật Ánh.
-- Harry Potter and the Philosopher's Stone by J. K. Rowling.
-- Harry Potter and the Prisoner of Azkaban by J. K. Rowling.
-- Harry Potter and the Goblet of Fire by J. K. Rowling.
-- Harry Potter and the Order of the Phoenix by J. K. Rowling.
-- Harry Potter and the Half-Blood Prince by J. K. Rowling.
-- Harry Potter and the Deathly Hallows by J. K. Rowling.
-- Lịch Sử Việt Nam Bằng Tranh by Trần Bạch Đằng.
-- The Alchemist by Paulo Coelho.
-- Tôi là Bêtô by Nguyễn Nhật Ánh.
-- Romance of the Three Kingdoms by Luo Guanzhong.
-
 # Economy and Finance
 - Learn to Earn by Peter Lynch.
 - One Up On Wall Street by Peter Lynch.
@@ -51,6 +38,19 @@ parent: Reading
 - まるごと 日本のことばと文化 中級2 B1 by 国際交流基金, 磯村一弘, 藤長かおる, 久保田美子, 伊藤由希子.
 - 日本語学習者のための 読解厳選テーマ10 \[中級\] by 清水正幸, 林真弓.
 - 中級を学ぼう 日本語の文型と表現56 中級前期 第2版 by 平井悦子, 三輪さち子.
+
+# Novels
+- Chuyện xứ Lang Biang by Nguyễn Nhật Ánh.
+- Harry Potter and the Philosopher's Stone by J. K. Rowling.
+- Harry Potter and the Prisoner of Azkaban by J. K. Rowling.
+- Harry Potter and the Goblet of Fire by J. K. Rowling.
+- Harry Potter and the Order of the Phoenix by J. K. Rowling.
+- Harry Potter and the Half-Blood Prince by J. K. Rowling.
+- Harry Potter and the Deathly Hallows by J. K. Rowling.
+- Lịch Sử Việt Nam Bằng Tranh by Trần Bạch Đằng.
+- The Alchemist by Paulo Coelho.
+- Tôi là Bêtô by Nguyễn Nhật Ánh.
+- Romance of the Three Kingdoms by Luo Guanzhong.
 
 # Others
 - How to Apply for the MEXT Scholarship by Travis Senzaki.
