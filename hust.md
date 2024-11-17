@@ -15,7 +15,7 @@ During my last years at Hanoi University of Science and Technology, I researched
 ### Images and Results:
 <center>
   <img src="images/rrt.png" alt="Robot" />
-  <p>Robot and its planning algorithm.</p>
+  <p>Robot design and its planning algorithm in simulation.</p>
 </center>
 
 <center>

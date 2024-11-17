@@ -26,6 +26,15 @@ I conducted research on the Chemical Plume Tracing (CPT) robot, integrating SLAM
   <p>Experiment of gas concentration sampling while doing SLAM</p>
 </center>
 
+<center>
+  <img src="images/kuralab19.jpg" alt="lab" />
+  <p>Me and people at Kurabayashi Laboratory</p>
+</center>
+
+<center>
+  <img src="images/kuralab19.jpg" alt="lab" />
+  <p>Me and other students in AOTULE program.</p>
+</center>
 
 ### Additional Information:
 **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
