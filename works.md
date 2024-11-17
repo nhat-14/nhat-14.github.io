@@ -1,6 +1,7 @@
 ---
 title: Works
 layout: default
+has_children: true
 ---
 
 # Works and Publications 
