@@ -27,19 +27,6 @@ My research was published as an article in [***Sensors***](https://www.mdpi.com/
 <br>
 
 ---
-##  Developed real-time data-assisted system on package handling, work shifts for workers, truck drivers.
-
-During my tenure at Giao Hang Tiet Kiem (GHTK, JSC) from October 2019 to September 2020, I executed a variety of tasks:
-
-<div style="text-align: justify">I developed a real-time data-assisted system for optimizing package handling and managing work shifts for workers and truck drivers in the E-commerce industry. This system, known as WMS (Warehouse Management System) and WCS (Warehouse Control System), underwent testing at the largest hub of a company located in northern Vietnam.
-
-Additionally, I designed and constructed auto-sorting conveyor system units that employed high-speed barcode readers to efficiently read package barcodes and accurately sort them based on their intended destinations.
-To provide a comprehensive visualization of the package sorting process, I developed Android applications compatible with mobile phones, TVs, and LED boards. These applications presented data related to the sorting process in an easily understandable and accessible format. </div>
-<br>
-<center><img src="images/ghtk.png"/></center>
-<br>
-
----
 ##  Designing intelligent autonomous robot using the SLAM algorithm, RRT* algorithm, and Fuzzy-PID techniques.
 
 My research was published as an article in [***Acta Polytechnica Hungarica***](http://acta.uni-obuda.hu/Mac_Lin_Huan_Nhat_Hoang_Hai_113.pdf) (January, 2022).
@@ -47,15 +34,6 @@ My research was published as an article in [***Acta Polytechnica Hungarica***](h
 <div style="text-align: justify">I successfully applied my expertise in simultaneous localization and mapping (SLAM) and RRT* path planning algorithm to enable a mobile robot to efficiently navigate its surroundings by accurately defining its environment and determining its optimal path. </div>
 <br>
 <center><img src="images/rrt.png"/></center>
-<br>
-
----
-##  Navigation of Automatic Guided Vehicles (AGV) using multiple vision-based algorithms.
-
-During my internship at National Taiwan University of Science and Technology (NTUST) in March - May 2019, I was part of the team responsible for designing an analog control system for an Automated Guided Vehicle (AGV) that could operate efficiently in industrial environments. Using CAN-bus technology, we were able to create a system that allowed for seamless communication between the AGV and its surrounding environment. This project was completed in collaboration with the Center for Intelligent Robots (NTUST) and UBIQELIFE Technology Corporation.
-
-<br>
-<center><img src="images/ntust.png"/></center>
 <br>
 
 ---
