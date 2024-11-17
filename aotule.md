@@ -13,10 +13,14 @@ During my summer exchange at Tokyo Institute of Technology, I conducted research
 <br>
 <center><img src="images/aotule.png"/></center>
 <br>
+<figcaption>(a) Mean gas concentration map (b) Gas concentration variance map obtained from post-processing sensor data using Kernel DM+V algorithm. </figcaption>
 
-![Alt Text](images/aotule_exp.gif)
+<center>![Alt Text](images/aotule_exp.gif)</center>
+<figcaption>Experiment of gas concentration sampling while doing SLAM</figcaption>
 
-Location: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.
-Date: From 2019 June 1st to 2019 August 31st.
-Context: I was selected as an exchange student from Hanoi University of Science and Technology to join the Asia-Oceania Top University League on Engineering (AOTULE) program held at Tokyo Institute of Technology, Japan.
-
+<div style="text-align: left;">
+  **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
+  **Date**: From 2019 June 1st to 2019 August 31st.  
+  **Context**: I was selected as an exchange student from Hanoi University of Science and Technology to join the Asia-Oceania Top University League on Engineering (AOTULE) program held at Tokyo Institute of Technology, Japan.
+  **Source code**: [GitHub Repository](https://github.com/nhat-14/Kernel_DM_V)
+</div>
