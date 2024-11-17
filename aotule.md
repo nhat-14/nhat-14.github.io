@@ -18,12 +18,12 @@ I conducted research on the Chemical Plume Tracing (CPT) robot, integrating SLAM
 ### Images and Results:
 <center>
   <img src="images/aotule.png" alt="Gas concentration map" />
-  <p>(a) Mean gas concentration map (b) Gas concentration variance map obtained from post-processing sensor data using Kernel DM+V algorithm.</p>
+  <p>(a) Mean gas concentration map (b) Gas concentration variance map obtained from post-processing sensor data using Kernel DM+V algorithm</p>
 </center>
 
 <center>
   <img src="images/aotule_exp.gif" alt="Experiment GIF" />
-  <p>Experiment of gas concentration sampling while doing SLAM.</p>
+  <p>Experiment of gas concentration sampling while doing SLAM</p>
 </center>
 
 
