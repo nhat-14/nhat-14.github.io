@@ -18,6 +18,16 @@ During my last years at Hanoi University of Science and Technology, I researched
   <p>Robot and its planning algorithm.</p>
 </center>
 
+<center>
+  <img src="images/team.png" alt="team" />
+  <p>The project was done by a group of 3 students and guided by Professor Mac Thi Thoa. We got 2nd prize in Student Research Competition at HUST (2019)</p>
+</center>
+
+<center>
+  <img src="images/show.png" alt="Robot" />
+  <p>Our robot was presented in Student Research Competition at HUST (2019).</p>
+</center>
+
 ### Additional Information:
 **Location**: Hanoi University of Science and Technology, Vietnam.  
 **Date**: From 2018 to 2019.  
