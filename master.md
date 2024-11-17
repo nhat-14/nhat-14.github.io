@@ -9,17 +9,25 @@ parent: Works
 <div style="text-align: justify">Odor source localization (OSL) robots are crucial for rescuing teams dealing with hazardous chemical plumes. Constructing the dispersion model of the odor plume for probabilistic odor source search algorithms is difficult due to the complex environment. In this study, I simplified the environment into sub-environments with different resolutions and proposed a framework that alternates between Infotaxis and Dijkstra algorithms to navigate the agent. This improved the success rate and reduced the average moving steps. Our implementation on an autonomous mobile robot verified its effectiveness. </div>
 
 **Problem statements**:
-* Testing and intergrating vision-based sensor for AGV.
-* Setup CAN-bus for the AGV.
+* Finding gas source in obstacle region.
+* Conventional algorithm such as Infotaxis is uneffective in obstacle region.
+* Overcome deadlock in areas where gas concentraion is high.
+
 
 ### Images and Results:
 <center>
   <img src="images/cpt.jpg" alt="Robot" />
-  <p>AGV prototypes were being assembled for testing with CAN bus, ultrasonic sensors, and cameras.</p>
+  <p>Environment are divided into sub-area and robot switch planning algorithms base on gas detection history and environment geometry</p>
 </center>
 
+<video width="1338" height="752" controls>
+  <source src="images/master.mp4" type="video/mp4">
+  <p>Implementation of the switch planning algorithms framework in odor source localization</p>
+</video>
+
+
 ### Additional Information:
-**Location**: Advanced Intelligent Robot Lab, National Taiwan University of Science and Technology, Taiwan.  
-**Date**: From 2019 March to 2019 May.  
-**Context**: This internship worked as a part of my bachelor's graduation thesis at Hanoi University of Science and Technology.  
-**Reference**: [Luong et al. (2023)](https://www.mdpi.com/1424-8220/23/3/1140), [Luong et al. (2024)](https://doi.org/10.1080/18824889.2024.2374569).
+**Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
+**Date**: From 2020 October to 2022 September.  
+**Context**: This is my Master's graduation thesis at Tokyo Institute of Technology.  
+**Publications**: [Luong et al. (2023)](https://www.mdpi.com/1424-8220/23/3/1140), [Luong et al. (2024)](https://doi.org/10.1080/18824889.2024.2374569).

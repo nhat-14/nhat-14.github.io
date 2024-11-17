@@ -33,7 +33,7 @@ Additionally, I designed and constructed auto-sorting conveyor system units that
 
 <center>
   <img src="images/meatghtk.jpg" alt="me" width="600" />
-  <p>Me (second from right of top row) at GHTK .</p>
+  <p>Me (second from right of top row) at GHTK</p>
 </center>
 
 ### Additional Information:

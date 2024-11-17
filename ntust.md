@@ -27,4 +27,4 @@ parent: Works
 **Location**: Advanced Intelligent Robot Lab, National Taiwan University of Science and Technology, Taiwan.  
 **Date**: From 2019 March to 2019 May.  
 **Context**: This internship worked as a part of my bachelor's graduation thesis at Hanoi University of Science and Technology.  
-**Reference**: [Mac et al. (2021)](http://dx.doi.org/10.12700/APH.18.6.2021.6.11).  
+**Publication**: [Mac et al. (2021)](http://dx.doi.org/10.12700/APH.18.6.2021.6.11).  
