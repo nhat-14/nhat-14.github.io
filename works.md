@@ -36,12 +36,5 @@ My research was published as an article in [***Acta Polytechnica Hungarica***](h
 <center><img src="images/rrt.png"/></center>
 <br>
 
----
-## 3D model construction of mechanical and electronic components
-
-<div style="text-align: justify"> During my internship at DKS Production and Trading Co., Ltd in Vietnam from June to August 2018, I was responsible for creating 3D models of mechanical and electronic components using Computer-Aided Design software such as SolidWorks and AUTODESK Inventor. These models were used for both manufacturing and educational purposes, and my work helped to streamline the production process and improve overall efficiency. </div>
-<br>
-<center><img src="images/mechanical.jpg"/></center>
-<br>
 
 <center>© 2022 Nhat Luong.</center>
