@@ -1,5 +1,5 @@
 ---
-title: AOTULE program (2019)
+title: (2019) AOTULE program 
 layout: default
 parent: Works
 ---
@@ -32,7 +32,7 @@ I conducted research on the Chemical Plume Tracing (CPT) robot, integrating SLAM
 </center>
 
 <center>
-  <img src="images/kuralab19.jpg" alt="lab" />
+  <img src="images/minna.png" alt="lab" />
   <p>Me and other students in AOTULE program.</p>
 </center>
 

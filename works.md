@@ -14,27 +14,4 @@ has_children: true
 <center><img src="images/IRL.png"/></center>
 <br>
 
----
-
-## Odor Source Localization in Obstacle Regions Using Switching Planning Algorithms with a Switching Framework
-
-My research was published as an article in [***Sensors***](https://www.mdpi.com/1424-8220/23/3/1140) (January, 2022).
-
-<div style="text-align: justify">Odor source localization (OSL) robots are crucial for rescuing teams dealing with hazardous chemical plumes. Constructing the dispersion model of the odor plume for probabilistic odor source search algorithms is difficult due to the complex environment. In this study, I simplified the environment into sub-environments with different resolutions and proposed a framework that alternates between Infotaxis and Dijkstra algorithms to navigate the agent. This improved the success rate and reduced the average moving steps. Our implementation on an autonomous mobile robot verified its effectiveness. </div>
-
-<br>
-<center><img src="images/cpt.jpg"/></center>
-<br>
-
----
-##  Designing intelligent autonomous robot using the SLAM algorithm, RRT* algorithm, and Fuzzy-PID techniques.
-
-My research was published as an article in [***Acta Polytechnica Hungarica***](http://acta.uni-obuda.hu/Mac_Lin_Huan_Nhat_Hoang_Hai_113.pdf) (January, 2022).
-
-<div style="text-align: justify">I successfully applied my expertise in simultaneous localization and mapping (SLAM) and RRT* path planning algorithm to enable a mobile robot to efficiently navigate its surroundings by accurately defining its environment and determining its optimal path. </div>
-<br>
-<center><img src="images/rrt.png"/></center>
-<br>
-
-
 <center>© 2022 Nhat Luong.</center>

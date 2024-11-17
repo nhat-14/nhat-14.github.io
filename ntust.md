@@ -1,12 +1,12 @@
 ---
-title: NTUST intern (2019)
+title: (2019) NTUST intern 
 layout: default
 parent: Works
 ---
 
 ## Navigation of Automatic Guided Vehicles (AGV) using multiple vision-based algorithms
 
-During my internship at National Taiwan University of Science and Technology (NTUST) in March - May 2019, I was part of the team responsible for designing an analog control system for an Automated Guided Vehicle (AGV) that could operate efficiently in industrial environments. Using CAN-bus technology, we were able to create a system that allowed for seamless communication between the AGV and its surrounding environment. This project was completed in collaboration with UBIQELIFE Technology Corporation.
+<div style="text-align: justify">During my internship at National Taiwan University of Science and Technology (NTUST) in March - May 2019, I was part of the team responsible for designing an analog control system for an Automated Guided Vehicle (AGV) that could operate efficiently in industrial environments. Using CAN-bus technology, we were able to create a system that allowed for seamless communication between the AGV and its surrounding environment. This project was completed in collaboration with UBIQELIFE Technology Corporation. </div>
 
 **Problem statements**:
 * Testing and intergrating vision-based sensor for AGV.
@@ -19,7 +19,7 @@ During my internship at National Taiwan University of Science and Technology (NT
 </center>
 
 <center>
-  <img src="images/me_in_taipei.jpg" alt="me" />
+  <img src="images/me_in_taipei.jpg" alt="me_taipei" />
   <p>Me at National Taiwan University of Science and Technology.</p>
 </center>
 

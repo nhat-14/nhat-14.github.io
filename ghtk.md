@@ -1,14 +1,14 @@
 ---
-title: GHTK, JSC (2019-2020)
+title: (2019-2020) GHTK, JSC 
 layout: default
 parent: Works
 ---
 
 ## Real-time WMS (Warehouse Management System) and WCS (Warehouse Control System).
 
-At Giao Hang Tiet Kiem (GHTK), I developed a real-time data-assisted system for optimizing package handling and managing work shifts for workers and truck drivers in the E-commerce. This system, known as WMS (Warehouse Management System) and WCS (Warehouse Control System), underwent testing at the largest hub of company in northern Vietnam. 
+<div style="text-align: justify">At Giao Hang Tiet Kiem (GHTK), I developed a real-time data-assisted system for optimizing package handling and managing work shifts for workers and truck drivers in the E-commerce. This system, known as WMS (Warehouse Management System) and WCS (Warehouse Control System), underwent testing at the largest hub of company in northern Vietnam. 
 
-Additionally, I designed and constructed auto-sorting conveyor system units that employed high-speed barcode readers to efficiently read package barcodes and accurately sort them based on their intended destinations. To provide a comprehensive visualization of the package sorting process, I developed Android applications compatible with mobile phones, TVs, and LED boards.
+Additionally, I designed and constructed auto-sorting conveyor system units that employed high-speed barcode readers to efficiently read package barcodes and accurately sort them based on their intended destinations. To provide a comprehensive visualization of the package sorting process, I developed Android applications compatible with mobile phones, TVs, and LED boards. </div>
 
 **Problem statements**:
 * Packages were sorted manually.
