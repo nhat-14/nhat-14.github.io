@@ -6,9 +6,14 @@ parent: Works
 
 ## Probabilistic mapping of gas distribution in a cluttered indoors environment.
 
-During my summer exchange at Tokyo Institute of Technology, I conducted research on the Chemical Plume Tracing robot, integrating SLAM with chemical sensing to enhance gas tracking in complex indoor spaces. This aimed to enable real-time navigation and mapping of gas distribution.
+I conducted research on the Chemical Plume Tracing (CPT) robot, integrating SLAM with chemical sensing to enhance gas tracking indoor. This aimed to enable mapping of gas distribution. An Omnidirectional robot and used it to obtain the gas distribution map by offline-processing data from chemical sensing using the Kernel DM + V method.
 
-I built a bio-inspired chemical tracing robot and used it to obtain the gas distribution map by offline-processing data from chemical sensing using the Kernel DM + V method.
+**Problem statements**:
+* Distribution of gas is dominated by turbulence.
+* Long response time and long recovery time of gas sensors.
+* Gas source is not always in an area with the highest gas concentration.
+* A single measurement from sensor provides information about a very small area.
+* Robot collects measurements from diﬀerent areas but still able to infer the position of the source. 
 
 ### Images and Results:
 <center>
