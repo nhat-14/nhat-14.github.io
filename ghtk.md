@@ -31,8 +31,13 @@ Additionally, I designed and constructed auto-sorting conveyor system units that
   <p>The crossbelt system has been completed and is now being utilized</p>
 </center>
 
+<center>
+  <img src="images/me_at_ghtk.jpg" alt="me" />
+  <p>Me (second from right of top row) at GHTK .</p>
+</center>
+
 ### Additional Information:
 **Location**: Giao Hang Tiet Kiem (GHTK) Joint Stock Company, Hanoi, Vietnam.  
 **Date**: From 2019 October 14th to 2020 September 20th.  
 **Context**: I was a full-time employee at GHTK. I initially worked as an Automation Engineer for the first six months, but due to the COVID-19 pandemic, the development process was halted, and partnering with China became extremely difficult. I then moved to the IT department to work as a Back-end Engineer on the same project, preparing the software and infrastructure in advance for the WCS and WMS systems. I then end my career here after 1 year for higher education in Japan.  
-**Reference**: [giaohangtietkiem.vn/](https://giaohangtietkiem.vn/dua-cong-nghe-vao-van-hanh-toi-uu-thoi-gian-chia-chon-hang-hoa-tai-kho/)
+**Reference**: [giaohangtietkiem.vn](https://giaohangtietkiem.vn/dua-cong-nghe-vao-van-hanh-toi-uu-thoi-gian-chia-chon-hang-hoa-tai-kho/)

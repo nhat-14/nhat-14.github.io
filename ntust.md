@@ -18,9 +18,13 @@ During my internship at National Taiwan University of Science and Technology (NT
   <p>AGV prototypes were being assembled for testing with CAN bus, ultrasonic sensors, and cameras.</p>
 </center>
 
+<center>
+  <img src="images/me_in_taipei.jpg" alt="me" />
+  <p>Me at National Taiwan University of Science and Technology.</p>
+</center>
 
 ### Additional Information:
 **Location**: Advanced Intelligent Robot Lab, National Taiwan University of Science and Technology, Taiwan.  
 **Date**: From 2019 March to 2019 May.  
-**Context**: This internship worked as a part of my bachelor's graduation thesis at Hanoi University of Science and Technology. 
+**Context**: This internship worked as a part of my bachelor's graduation thesis at Hanoi University of Science and Technology.  
 **Reference**: [Mac et al. (2021)](http://dx.doi.org/10.12700/APH.18.6.2021.6.11).  
