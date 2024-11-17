@@ -11,7 +11,7 @@ During my internship at DKS Production and Trading Co., Ltd in Vietnam from June
 
 ### Images and Results:
 <center>
-  <img src="images/mechanical.jpg" alt="Semi-auto sorting system" />
+  <img src="images/mechanical.jpg" alt="Semi-auto sorting system" width="600" />
   <p>Some 3D models created by me</p>
 </center>
 

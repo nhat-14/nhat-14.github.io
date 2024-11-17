@@ -14,12 +14,12 @@ parent: Works
 
 ### Images and Results:
 <center>
-  <img src="images/ntust.png" alt="Robot" />
+  <img src="images/ntust.png" alt="Robot" width="600" />
   <p>AGV prototypes were being assembled for testing with CAN bus, ultrasonic sensors, and cameras.</p>
 </center>
 
 <center>
-  <img src="images/me_in_taipei.jpg" alt="me_taipei" />
+  <img src="images/meintaipei.jpg" alt="me_taipei" width="600" />
   <p>Me at National Taiwan University of Science and Technology.</p>
 </center>
 

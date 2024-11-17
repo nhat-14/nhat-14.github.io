@@ -14,17 +14,27 @@ parent: Works
 
 ### Images and Results:
 <center>
-  <img src="images/rrt.png" alt="Robot" />
+  <img src="images/rrt.png" alt="Robot" width="600" />
   <p>Robot design and its planning algorithm in simulation.</p>
 </center>
 
 <center>
-  <img src="images/team.png" alt="team" width="500"/>
+  <img src="images/hust.gif" alt="Robot" width="600"/>
+  <p>Obstacle avoidance for both static and dynamic obstacles in simulation.</p>
+</center>
+
+<center>
+  <img src="images/hustntust.gif" alt="Robot" width="600"/>
+  <p>Obstacle avoidance in real-life using RRT* as the path planner.</p>
+</center>
+
+<center>
+  <img src="images/team.png" alt="team" width="600"/>
   <p>The project was done by a group of 3 students and guided by Professor Mac Thi Thoa. We got 2nd prize in Student Research Competition at HUST (2019)</p>
 </center>
 
 <center>
-  <img src="images/show.png" alt="Robot" width="500"/>
+  <img src="images/show.png" alt="Robot" width="600"/>
   <p>Our robot was presented in Student Research Competition at HUST (2019).</p>
 </center>
 

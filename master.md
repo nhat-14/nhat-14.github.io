@@ -1,5 +1,5 @@
 ---
-title: (2020 - 2022) Master Thesis 
+title: (2020-2022) Master Thesis 
 layout: default
 parent: Works
 ---
@@ -16,11 +16,6 @@ parent: Works
 <center>
   <img src="images/cpt.jpg" alt="Robot" />
   <p>AGV prototypes were being assembled for testing with CAN bus, ultrasonic sensors, and cameras.</p>
-</center>
-
-<center>
-  <img src="images/me_in_taipei.jpg" alt="me" />
-  <p>Me at National Taiwan University of Science and Technology.</p>
 </center>
 
 ### Additional Information:

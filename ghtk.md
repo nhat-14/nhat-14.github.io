@@ -17,22 +17,22 @@ Additionally, I designed and constructed auto-sorting conveyor system units that
 
 ### Images and Results:
 <center>
-  <img src="images/ghtk.png" alt="Semi-auto sorting system" />
+  <img src="images/ghtk.png" alt="Semi-auto sorting system" width="600" />
   <p>Semi-auto sorting system where packages are scanned by high-speed barcode readers at beginning and sorted mannually after</p>
 </center>
 
 <center>
-  <img src="images/tv.png" alt="developed IoT display system" />
+  <img src="images/tv.png" alt="developed IoT display system" width="600" />
   <p>A display system using Android to show real-time information for warehouse workers. Information and on-off status are controlled from headquarter</p>
 </center>
 
 <center>
-  <img src="images/crossbelt.png" alt="developed IoT display system" />
+  <img src="images/crossbelt.png" alt="developed IoT display system" width="600" />
   <p>The crossbelt system has been completed and is now being utilized</p>
 </center>
 
 <center>
-  <img src="images/me_at_ghtk.jpg" alt="me" />
+  <img src="images/meatghtk.jpg" alt="me" width="600" />
   <p>Me (second from right of top row) at GHTK .</p>
 </center>
 
