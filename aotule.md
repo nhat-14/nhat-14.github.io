@@ -17,9 +17,10 @@ I built a bio-inspired chemical tracing robot and used it to obtain the gas dist
 </center>
 
 <center>
-  ![Alt Text](images/aotule_exp.gif)
+  <img src="images/aotule_exp.gif" alt="Experiment GIF" />
   <p>Experiment of gas concentration sampling while doing SLAM.</p>
 </center>
+
 
 ### Additional Information:
 **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
