@@ -19,12 +19,16 @@ parent: Reading
 10. The Clash of the Cultures by John C. Bogle, Arthur Levitt Jr.
 11. Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel.
 12. Currency Wars by James Rickards.
+13. The Trading Game: A Confession by Gary Stevenson.
+14. The Money Trap: Grand Fortunes and Lost Illusions Inside the Tech Bubble by Alok Sama.
+15. Private Equity: A Memoir by Carrie Sun.
 
 # Technology
 1. Code Complete by Steve McConnell.
 2. The Pragmatic Programmer by David Thomas, Andrew Hunt.
 3. Blockchain Basics by Daniel Drescher.
 4. Financial Theory with Python by Yves Hilpisch.
+5. AI Engineering by Chip Huyen.
 
 # Others
 - Atomic Habits by James Clear.
