@@ -38,3 +38,4 @@ parent: Reading
 - River Out of Eden by Richard Dawkins.
 - The Lessons of History by Will Durant. 
 - The Hero with a Thousand Faces by Joseph Campbell.
+- Death by China: Confronting the Dragon - A Global Call to Action by Peter Navarro, Greg Autry.
