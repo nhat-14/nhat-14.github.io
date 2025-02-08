@@ -22,8 +22,15 @@ parent: Works
 
 <div style="text-align: center;">
   <video width="600" height="337" controls>
-    <source src="images/switch_algorithm.mp4" type="video/mp4">
+    <source src="images/master.mp4" type="video/mp4">
     Implementation of the switch planning algorithms framework in odor source localization
+  </video>
+</div>
+
+<div style="text-align: center;">
+  <video width="600" height="337" controls>
+    <source src="images/switching_algorithm.mp4" type="video/mp4">
+    Odor Source Localization with Switch planning algorithms framework in a more complex environment
   </video>
 </div>
 
