@@ -18,13 +18,6 @@ parent: Works
   <p>VRmoth system for obtaining silkworrm moth behavior</p>
 </center>
 
-<div style="text-align: center;">
-  <video width="600" height="337" controls>
-    <source src="images/switch_algorithm.mp4" type="video/mp4">
-    Odor Source Localization with Switch planning algorithms framework in a more complex environment
-  </video>
-</div>
-
 ### Additional Information:
 **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
 **Date**: From 2022 October to 2025 September.  
