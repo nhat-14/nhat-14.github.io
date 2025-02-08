@@ -23,9 +23,11 @@ parent: Works
 <div style="text-align: center;">
   <video width="600" height="337" controls>
     <source src="images/master.mp4" type="video/mp4">
-    Implementation of the switch planning algorithms framework in odor source localization
+    <p> Implementation of the switch planning algorithms framework in odor source localization </p>
   </video>
 </div>
+
+
 
 ### Additional Information:
 **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
