@@ -20,12 +20,12 @@ parent: Works
   <p>Environment are divided into sub-area and robot switch planning algorithms base on gas detection history and environment geometry</p>
 </center>
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <video width="600" height="337" controls>
     <source src="images/master.mp4" type="video/mp4">
     <p> Implementation of the switch planning algorithms framework in odor source localization </p>
   </video>
-</div>
+</div> -->
 
 
 
