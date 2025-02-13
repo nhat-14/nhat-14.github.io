@@ -10,3 +10,4 @@ gem "jekyll-default-layout"
 gem "csv"
 gem "base64"
 gem 'bigdecimal'
+gem 'wdm', '>= 0.1.0'
