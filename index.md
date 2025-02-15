@@ -3,7 +3,6 @@ title: Home
 layout: home
 ---
 
-
 <p align="center">
   <img src="/images/picture.png?raw=true" alt="drawing" width="200" />
 </p>
