@@ -18,7 +18,6 @@ parent: Works
   <p>VRmoth system for obtaining silkworrm moth behavior</p>
 </center>
 
-
 ### Additional Information:
 **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
 **Date**: From 2022 October to 2025 September.  

@@ -20,12 +20,22 @@ parent: Works
   <p>Environment are divided into sub-area and robot switch planning algorithms base on gas detection history and environment geometry</p>
 </center>
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <video width="600" height="337" controls>
     <source src="images/master.mp4" type="video/mp4">
-    Implementation of the switch planning algorithms framework in odor source localization
+    Your browser does not support the video tag.
   </video>
+  <figcaption>Implementation of the switch planning algorithms framework in odor source localization</figcaption>
 </div>
+
+<br> -->
+
+<video controls>
+    <source src="images/master2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<br>
 
 ### Additional Information:
 **Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  

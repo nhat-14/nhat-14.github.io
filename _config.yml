@@ -1,9 +1,7 @@
 title: Luong Duc Nhat's Site
-description: See my works and daily blogs here!
-
+description: See my works here!
 theme: just-the-docs
 url: nhat-14.github.io
-
 plugins:
   - jekyll-default-layout
 

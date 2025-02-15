@@ -24,11 +24,17 @@ parent: Reading
 15. Private Equity: A Memoir by Carrie Sun.
 
 # Technology
-1. Code Complete by Steve McConnell.
-2. The Pragmatic Programmer by David Thomas, Andrew Hunt.
-3. Blockchain Basics by Daniel Drescher.
-4. Financial Theory with Python by Yves Hilpisch.
-5. AI Engineering by Chip Huyen.
+- Code Complete by Steve McConnell.
+- The Pragmatic Programmer by David Thomas, Andrew Hunt.
+- Blockchain Basics by Daniel Drescher.
+- Financial Theory with Python by Yves Hilpisch.
+- AI Engineering by Chip Huyen.
+- Markov Random Fields And Their Applications by Ross Kindermann.
+- Practical Deep Reinforcement Learning with Python by Ivan Gridin.
+- Pattern Recognition and Machine Learning by Bishop.
+- Deep Reinforcement Learning Hands-On by Maxim Lapan.
+- Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, Julie Sussman
+
 
 # Others
 - Atomic Habits by James Clear.
