@@ -7,28 +7,32 @@ parent: Reading
 # Novels
 
 # Economy and Finance
-1. The Intelligent Investor by Benjamin Graham, Jason Zweig.
-2. The Accounting Game by Darrell Mullis, Judith Orloff.
-3. How a Second Grader Beats Wall Street by Allan S. Roth.
-4. All About Asset Allocation by Richard A. Ferri.
-5. The Millionaire Next Door by Thomas J. Stanley, William D. Danko.
-6. Grow the Pie by Alex Edmans.
-7. The Devil's Financial Dictionary by Jason Zweig.
-8. The Essays of Warren Buffett by Warren E. Buffett, Lawrence A. Cunningham.
-9. MONEY Master the Game by Tony Robbins.
-10. The Clash of the Cultures by John C. Bogle, Arthur Levitt Jr.
-11. Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel.
-12. Currency Wars by James Rickards.
-13. The Trading Game: A Confession by Gary Stevenson.
-14. The Money Trap: Grand Fortunes and Lost Illusions Inside the Tech Bubble by Alok Sama.
-15. Private Equity: A Memoir by Carrie Sun.
+- The Intelligent Investor by Benjamin Graham, Jason Zweig.
+- The Accounting Game by Darrell Mullis, Judith Orloff.
+- How a Second Grader Beats Wall Street by Allan S. Roth.
+- All About Asset Allocation by Richard A. Ferri.
+- The Millionaire Next Door by Thomas J. Stanley, William D. Danko.
+- Grow the Pie by Alex Edmans.
+- The Devil's Financial Dictionary by Jason Zweig.
+- The Essays of Warren Buffett by Warren E. Buffett, Lawrence A. Cunningham.
+- MONEY Master the Game by Tony Robbins.
+- The Clash of the Cultures by John C. Bogle, Arthur Levitt Jr.
+- Intermediate Accounting by David Spiceland, Mark W. Nelson, Wayne M. Thomas, Jennifer Winchel.
+- Currency Wars by James Rickards.
+- The Trading Game: A Confession by Gary Stevenson.
+- The Money Trap: Grand Fortunes and Lost Illusions Inside the Tech Bubble by Alok Sama.
+- Private Equity: A Memoir by Carrie Sun.
+- Common Stocks and Uncommon Profits by Philip Arthur Fisher
 
-# Technology
-1. Code Complete by Steve McConnell.
-2. The Pragmatic Programmer by David Thomas, Andrew Hunt.
-3. Blockchain Basics by Daniel Drescher.
-4. Financial Theory with Python by Yves Hilpisch.
-5. AI Engineering by Chip Huyen.
+
+# Science and Technology
+- Code Complete by Steve McConnell.
+- The Pragmatic Programmer by David Thomas, Andrew Hunt.
+- Blockchain Basics by Daniel Drescher.
+- Financial Theory with Python by Yves Hilpisch.
+- AI Engineering by Chip Huyen.
+- Calculus Made Easy by Silvanus P. Thompson.
+- ROS 2 from Scratch by Edouard Renard
 
 # Others
 - Atomic Habits by James Clear.
@@ -39,3 +43,8 @@ parent: Reading
 - The Lessons of History by Will Durant. 
 - The Hero with a Thousand Faces by Joseph Campbell.
 - Death by China: Confronting the Dragon - A Global Call to Action by Peter Navarro, Greg Autry.
+
+# Movies and Drama to Watch
+- Massan (TV Series 2014–2015).
+- Wish Dragon (2021).
+- Invasion of the Body Snatchers (1978).
