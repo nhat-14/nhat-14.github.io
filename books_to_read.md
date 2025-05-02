@@ -23,7 +23,7 @@ parent: Reading
 - The Money Trap: Grand Fortunes and Lost Illusions Inside the Tech Bubble by Alok Sama.
 - Private Equity: A Memoir by Carrie Sun.
 - Common Stocks and Uncommon Profits by Philip Arthur Fisher
-
+- The Code of Capital by Katharina Pistor 
 
 # Science and Technology
 - Code Complete by Steve McConnell.
@@ -43,8 +43,11 @@ parent: Reading
 - The Lessons of History by Will Durant. 
 - The Hero with a Thousand Faces by Joseph Campbell.
 - Death by China: Confronting the Dragon - A Global Call to Action by Peter Navarro, Greg Autry.
+- Tao of Charlie Munger by David Clark.
+- Thinking in Bets by Annie Duke
 
 # Movies and Drama to Watch
 - Massan (TV Series 2014–2015).
 - Wish Dragon (2021).
 - Invasion of the Body Snatchers (1978).
+- Industry (TV Series 2020).
