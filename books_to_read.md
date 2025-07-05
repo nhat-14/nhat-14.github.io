@@ -24,6 +24,7 @@ parent: Reading
 - Private Equity: A Memoir by Carrie Sun.
 - Common Stocks and Uncommon Profits by Philip Arthur Fisher
 - The Code of Capital by Katharina Pistor 
+- Benjamin Graham on Value Investing by Janet Lowe
 
 # Science and Technology
 - Code Complete by Steve McConnell.
@@ -33,6 +34,7 @@ parent: Reading
 - AI Engineering by Chip Huyen.
 - Calculus Made Easy by Silvanus P. Thompson.
 - ROS 2 from Scratch by Edouard Renard
+- Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 # Others
 - Atomic Habits by James Clear.
@@ -44,10 +46,15 @@ parent: Reading
 - The Hero with a Thousand Faces by Joseph Campbell.
 - Death by China: Confronting the Dragon - A Global Call to Action by Peter Navarro, Greg Autry.
 - Tao of Charlie Munger by David Clark.
-- Thinking in Bets by Annie Duke
+- Thinking in Bets by Annie Duke.
+- Benjamin Franklin by Carl Van Doren.
+- Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger by Charles T. Munger.
 
 # Movies and Drama to Watch
 - Massan (TV Series 2014–2015).
 - Wish Dragon (2021).
 - Invasion of the Body Snatchers (1978).
 - Industry (TV Series 2020).
+- The Polar Express (2004).
+- Dead Ringers (1988).
+- Django (2012).
