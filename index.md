@@ -16,14 +16,12 @@ layout: home
 </p>
 
 <p align="justify">
-My full name is Luong Duc Nhat (ニャット). I am pursing PhD degree in Systems and Control Engineering at School of Engineering, Institute of Science Tokyo, Japan.
+My name is Luong Duc Nhat (ニャット). I am working at Open Source & InnerSource Program Office, Mitsubishi Electric located in Yokohama, Japan.
+
 <br><br>
-I am conducting research in chemical plume tracing robot where I use Reinforcement Learning and related AI technologies 
-for the tasks of path and motion planning.
+I have a Ph.D. in Systems and Control Engineering from Institute of Science Tokyo, Japan. I conducted research in chemical plume tracing robot where I use Inverse Reinforcement Learning and multiple planning algorithms.
 <br><br>
 </p>
-
-
 
 See my works and research related activities in [Works](https://ducnhat-luong.github.io/works.html).
 See my reading list in [Reading](https://ducnhat-luong.github.io/books.html).
