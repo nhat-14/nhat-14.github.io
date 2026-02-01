@@ -15,9 +15,6 @@ plugins:
 # Color scheme
 color_scheme: light
 
-# Custom CSS
-custom_css: /assets/css/custom.scss
-
 # Footer content
 footer_content: "Copyright &copy; 2022-2026 Luong Duc Nhat. Distributed under the <a href=\"https://github.com/nhat-14/nhat-14.github.io/blob/main/LICENSE\">MIT License</a>."
 
@@ -58,3 +55,7 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+# Custom SCSS
+sass:
+  style: expanded
