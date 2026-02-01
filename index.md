@@ -26,13 +26,3 @@ I am currently working at the **Open Source & InnerSource Program Office** at Mi
 I hold a Ph.D. in Systems and Control Engineering from the Institute of Science Tokyo, where I conducted research in chemical plume tracing robotics using Inverse Reinforcement Learning and advanced planning algorithms.
 
 ---
-
-## Quick Links
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1.5rem;">
-    <h3 style="margin-top: 0;">📚 Works</h3>
-    <p>Explore my research projects, publications, and professional experiences.</p>
-    <a href="docs/works/">View Works →</a>
-  </div>
-</div>
