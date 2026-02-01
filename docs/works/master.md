@@ -16,7 +16,7 @@ parent: Works
 
 ### Images and Results:
 <center>
-  <img src="images/cpt.jpg" alt="Robot" width="600"/>
+  <img src="/assets/images/cpt.jpg" alt="Robot" width="600"/>
   <p>Environment are divided into sub-area and robot switch planning algorithms base on gas detection history and environment geometry</p>
 </center>
 
@@ -24,7 +24,7 @@ parent: Works
 
 <div style="text-align: center;">
   <video width="600" height="337" controls>
-    <source src="images/master.mp4" type="video/mp4">
+    <source src="/assets/images/master.mp4" type="video/mp4">
   </video>
    <p>Implementation of the switch planning algorithms framework in odor source localization.</p>
 </div>
@@ -33,7 +33,7 @@ parent: Works
 
 <div style="text-align: center;">
   <video width="600" height="337" controls>
-    <source src="images/master2.mp4" type="video/mp4">
+    <source src="/assets/images/master2.mp4" type="video/mp4">
   </video>
    <p>Switch planning algorithms in more complex environment.</p>
 </div>

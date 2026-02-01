@@ -13,26 +13,26 @@ I conducted research on the Chemical Plume Tracing (CPT) robot, integrating SLAM
 * Long response time and long recovery time of gas sensors.
 * Gas source is not always in an area with the highest gas concentration.
 * A single measurement from sensor provides information about a very small area.
-* Robot collects measurements from diÔ¨Äerent areas but still able to infer the position of the source. 
+* Robot collects measurements from diÅEÄerent areas but still able to infer the position of the source. 
 
 ### Images and Results:
 <center>
-  <img src="images/aotule.png" alt="Gas concentration map" width="600"  />
+  <img src="/assets/images/aotule.png" alt="Gas concentration map" width="600"  />
   <p>(a) Mean gas concentration map (b) Gas concentration variance map obtained from post-processing sensor data using Kernel DM+V algorithm</p>
 </center>
 
 <center>
-  <img src="images/aotule_exp.gif" alt="Experiment GIF" width="600"  />
+  <img src="/assets/images/aotule_exp.gif" alt="Experiment GIF" width="600"  />
   <p>Experiment of gas concentration sampling while doing SLAM</p>
 </center>
 
 <center>
-  <img src="images/kuralab19.jpg" alt="lab" width="600" />
+  <img src="/assets/images/kuralab19.jpg" alt="lab" width="600" />
   <p>Me and people at Kurabayashi Laboratory</p>
 </center>
 
 <center>
-  <img src="images/minna.png" alt="lab" width="600" />
+  <img src="/assets/images/minna.png" alt="lab" width="600" />
   <p>Me and other students in AOTULE program.</p>
 </center>
 

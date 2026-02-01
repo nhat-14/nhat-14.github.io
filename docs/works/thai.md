@@ -15,12 +15,12 @@ This is a health monitoring application that tracks the status of gym trainers i
 
 ### Images and Results:
 <center>
-  <img src="images/nstda.jpg" alt="me_taipei" width="600" />
+  <img src="/assets/images/nstda.jpg" alt="me_taipei" width="600" />
   <p>Me at National Science and Technology Development Agency.</p>
 </center>
 
 <center>
-  <img src="images/thammasat.jpg" alt="me_taipei" width="600" />
+  <img src="/assets/images/thammasat.jpg" alt="me_taipei" width="600" />
   <p>Me at Thammasat University.</p>
 </center>
 

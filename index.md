@@ -5,11 +5,11 @@ layout: home
 
 
 <p align="center">
-  <img src="/images/picture.png?raw=true" alt="drawing" width="200" />
+  <img src="/assets/images/picture.png?raw=true" alt="drawing" width="200" />
 </p>
 
 <p align="center">
-<a href="pdf/Resume_Nhat.pdf">Resume</a> |
+<a href="assets/pdf/Resume_Nhat.pdf">Resume</a> |
 <a href="https://www.linkedin.com/in/nhat-luong-02058617b/">LinkedIn</a> |
 <a href="https://github.com/nhat-14">GitHub</a> |
 <a href="https://scholar.google.com/citations?user=Jj6xszMAAAAJ&hl=vi">GoogleScholar</a>
@@ -23,5 +23,5 @@ I have a Ph.D. in Systems and Control Engineering from Institute of Science Toky
 <br><br>
 </p>
 
-See my works and research related activities in [Works](works.html).
-See my reading list in [Reading](books.html).
+See my works and research related activities in [Works](docs/works/).
+See my reading list in [Reading](docs/reading/).

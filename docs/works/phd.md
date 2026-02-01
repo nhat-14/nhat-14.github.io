@@ -14,7 +14,7 @@ parent: Works
 
 ### Images and Results:
 <center>
-  <img src="images/IRL.png" alt="Robot" width="600"/>
+  <img src="/assets/images/IRL.png" alt="Robot" width="600"/>
   <p>VRmoth system for obtaining silkworrm moth behavior</p>
 </center>
 
