@@ -1,5 +1,5 @@
-title: Luong Duc Nhat's Site
-description: See my works and daily blogs here!
+title: Luong Duc Nhat
+description: Ph.D. in Systems and Control Engineering | Robotics Researcher
 author:
   name: Luong Duc Nhat
   email: nhat@example.com
@@ -11,6 +11,19 @@ baseurl: ""
 
 plugins:
   - jekyll-default-layout
+
+# Color scheme
+color_scheme: light
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub":
+    - "https://github.com/nhat-14"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/nhat-luong-02058617b/"
+
+# Footer content
+footer_content: "Copyright &copy; 2022-2026 Luong Duc Nhat. Distributed under the <a href=\"https://github.com/nhat-14/nhat-14.github.io/blob/main/LICENSE\">MIT License</a>."
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/myface.ico"
