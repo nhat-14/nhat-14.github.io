@@ -1,13 +1,17 @@
 title: Luong Duc Nhat's Site
 description: See my works and daily blogs here!
-
+author:
+  name: Luong Duc Nhat
+  email: nhat@example.com
 
 theme: just-the-docs
 
-url: nhat-14.github.io
+url: https://nhat-14.github.io
+baseurl: ""
 
 plugins:
   - jekyll-default-layout
+  - jekyll-seo-tag
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/images/myface.ico"

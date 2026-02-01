@@ -23,5 +23,5 @@ I have a Ph.D. in Systems and Control Engineering from Institute of Science Toky
 <br><br>
 </p>
 
-See my works and research related activities in [Works](https://ducnhat-luong.github.io/works.html).
-See my reading list in [Reading](https://ducnhat-luong.github.io/books.html).
+See my works and research related activities in [Works](works.html).
+See my reading list in [Reading](books.html).
