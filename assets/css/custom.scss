@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Increase base font size for better readability
+body {
+  font-size: 18px !important;
+  line-height: 1.7 !important;
+}
+
+// Increase paragraph text
+p {
+  font-size: 18px !important;
+  line-height: 1.7 !important;
+}
+
+// Adjust headings
+h1 {
+  font-size: 2.2em !important;
+}
+
+h2 {
+  font-size: 1.8em !important;
+}
+
+h3 {
+  font-size: 1.4em !important;
+}
+
+// Increase navigation text
+.site-nav {
+  font-size: 16px !important;
+}
+
+// Increase link text in cards
+a {
+  font-size: inherit !important;
+}

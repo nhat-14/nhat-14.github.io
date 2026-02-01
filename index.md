@@ -35,10 +35,4 @@ I hold a Ph.D. in Systems and Control Engineering from the Institute of Science 
     <p>Explore my research projects, publications, and professional experiences.</p>
     <a href="docs/works/">View Works →</a>
   </div>
-  
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1.5rem;">
-    <h3 style="margin-top: 0;">📖 Reading</h3>
-    <p>Check out my reading list and book recommendations.</p>
-    <a href="docs/reading/">View Reading List →</a>
-  </div>
 </div>

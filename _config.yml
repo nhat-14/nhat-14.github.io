@@ -15,15 +15,15 @@ plugins:
 # Color scheme
 color_scheme: light
 
-# Aux links for the upper right navigation
-aux_links:
-  "GitHub":
-    - "https://github.com/nhat-14"
-  "LinkedIn":
-    - "https://www.linkedin.com/in/nhat-luong-02058617b/"
+# Custom CSS
+custom_css: /assets/css/custom.scss
 
 # Footer content
 footer_content: "Copyright &copy; 2022-2026 Luong Duc Nhat. Distributed under the <a href=\"https://github.com/nhat-14/nhat-14.github.io/blob/main/LICENSE\">MIT License</a>."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/myface.ico"
