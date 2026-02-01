@@ -13,7 +13,7 @@ I conducted research on the Chemical Plume Tracing (CPT) robot, integrating SLAM
 * Long response time and long recovery time of gas sensors.
 * Gas source is not always in an area with the highest gas concentration.
 * A single measurement from sensor provides information about a very small area.
-* Robot collects measurements from diÅEÄerent areas but still able to infer the position of the source. 
+* Robot collects measurements from different areas but still able to infer the position of the source. 
 
 ### Images and Results:
 <center>
