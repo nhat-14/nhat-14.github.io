@@ -2,6 +2,7 @@
 title: (2018) DKS internship 
 layout: default
 parent: Works
+nav_order: 11
 ---
 
 ## 3D model construction of mechanical and electronic components.

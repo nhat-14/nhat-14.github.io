@@ -2,6 +2,7 @@
 title: (2025) NSTDA exchange 
 layout: default
 parent: Works
+nav_order: 3
 ---
 
 ## A health monitoring IOT application

@@ -2,6 +2,7 @@
 title: (2018-2019) Bachelor Thesis 
 layout: default
 parent: Works
+nav_order: 9
 ---
 
 ## Designing intelligent autonomous robot using the SLAM algorithm, RRT* algorithm, and Fuzzy-PID techniques
@@ -42,5 +43,5 @@ parent: Works
 **Location**: Hanoi University of Science and Technology, Vietnam.  
 **Date**: From 2018 to 2019.  
 **Context**: This is my bachelor's graduation thesis at Hanoi University of Science and Technology.  
-**Publication**: [Mac et al. (2021)](http://dx.doi.org/10.12700/APH.18.6.2021.6.11).  
+**Publication**: [Hybrid SLAM-based Exploration of a Mobile Robot for 3D Scenario Reconstruction and Autonomous Navigation (2021)](http://dx.doi.org/10.12700/APH.18.6.2021.6.11).  
 

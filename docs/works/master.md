@@ -2,6 +2,7 @@
 title: (2020-2022) Master Thesis 
 layout: default
 parent: Works
+nav_order: 6
 ---
 
 ## Odor Source Localization in Obstacle Regions Using Switching Planning Algorithms with a Switching Framework

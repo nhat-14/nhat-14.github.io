@@ -2,6 +2,7 @@
 title: (2022-2025) PhD Dissertation 
 layout: default
 parent: Works
+nav_order: 1
 ---
 
 ## Surpassing Natural Experts in Odor Source Localization Through Inverse Reinforcement Learning
@@ -20,7 +21,7 @@ parent: Works
 
 
 ### Additional Information:
-**Location**: Kurabayashi Laboratory, Tokyo Institute of Technology, Japan.  
+**Location**: Kurabayashi Laboratory, Institute of Science Tokyo, Japan.  
 **Date**: From 2022 October to 2025 September.  
-**Context**: This is my PhD Dissertation at Institute of Science Tokyo.  
-**Publications**: [Hernandez-Reyes et al. (2022)](https://doi.org/10.1109/TMRB.2021.3129113).
+**Context**: This is my PhD Dissertation at the Institute of Science Tokyo.  
+**Publications**: [Learning a Generic Olfactory Search Strategy From Silk Moths by Deep Inverse Reinforcement Learning (2022)](https://doi.org/10.1109/TMRB.2021.3129113).

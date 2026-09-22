@@ -2,6 +2,7 @@
 title: (2019) NTUST intern 
 layout: default
 parent: Works
+nav_order: 10
 ---
 
 ## Navigation of Automatic Guided Vehicles (AGV) using multiple vision-based algorithms

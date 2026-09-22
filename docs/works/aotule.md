@@ -2,6 +2,7 @@
 title: (2019) AOTULE program 
 layout: default
 parent: Works
+nav_order: 8
 ---
 
 ## Probabilistic mapping of gas distribution in a cluttered indoors environment

@@ -2,6 +2,7 @@
 title: (2019-2020) GHTK, JSC 
 layout: default
 parent: Works
+nav_order: 7
 ---
 
 ## Real-time WMS (Warehouse Management System) and WCS (Warehouse Control System).
